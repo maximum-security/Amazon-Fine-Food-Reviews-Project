@@ -15,4 +15,14 @@ The "Amazon Fine Food Reviews" dataset contains reviews for Amazon food products
 ### Results
 Results show that Logistic Regression is the best performing model when trying to capture `neutral` reviews, while Linear SVM is the best overall performing model after class balancing. This project highlights the importance of capturing negative and neutral reviews, as well as the significance of text data in machine learning.
 
+### Tools and Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly Express
+- Scikit-learn
+- XGBoost
+
 
