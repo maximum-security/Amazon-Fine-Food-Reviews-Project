@@ -22,7 +22,7 @@ Results show that Logistic Regression is the best performing model when trying t
 - Matplotlib
 - Seaborn
 - Plotly Express
-- Scikit-learn
 - XGBoost
-
+- Scikit-learn
+- NLTK
 
